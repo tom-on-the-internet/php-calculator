@@ -33,8 +33,8 @@ class Calculator
   }
 }
 
-// sample usage
 $calculator = new Calculator();
 echo $calculator->twoPlusFour() . "\n";
 echo $calculator->nineTimesEight() . "\n";
 echo $calculator->zeroMinusThree() . "\n";
+echo $calculator->nineTimesFourTimesSeven() . "\n";

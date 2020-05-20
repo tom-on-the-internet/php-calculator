@@ -7,3 +7,15 @@ $calculator->twoPlusFour();
 $calculator->nineTimesEight()
 $calculator->zeroMinusThree()
 ```
+
+_Also_
+
+A functional adder.
+
+```
+add(1)(); // 1
+
+add(1)(2)(); // 3
+
+add(1)(2)(3)(4)(5)(6)(7)(); // 28
+```
